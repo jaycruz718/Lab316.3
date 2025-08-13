@@ -40,3 +40,4 @@ navBar.textContent = menuLinks[i].text;
 // Append the new element to the topMenuEl element.
     topMenuEl.appendChild(navBar);
 };
+
